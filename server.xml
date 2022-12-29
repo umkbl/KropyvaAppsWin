@@ -7,6 +7,12 @@
     <Description />
     <Versions>
       <VersionModel>
+        <Title>2022-12-04</Title>
+        <Description>Додано тактичні позначки</Description>
+        <Url>https://github.com/umkbl/KropyvaAppsWin/raw/main/2022-12-04</Url>
+        <ExecutionFile>SASPlanet.exe</ExecutionFile>
+      </VersionModel>
+      <VersionModel>
         <Title>2022-11-06</Title>
         <Description>* Додано нові позначки.
 * Можливість ставити статус позначки (Пошкоджено, Знищено) в Конструкторі позначок.</Description>
